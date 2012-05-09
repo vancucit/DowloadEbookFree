@@ -43,7 +43,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //t
+    //vai chùa 
     _webView.delegate = self;
    // [self loadURL:[NSURL URLWithString:@"http://www.gutenberg.org/files/2591/2591-pdf.pdf"]];
     //[self loadURL:[NSURL URLWithString:@"https://github.com/vfr/Reader/zipball/master"]];
